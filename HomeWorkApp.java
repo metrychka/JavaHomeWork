@@ -26,14 +26,14 @@ public class HomeWorkApp {
         }
     }
     public static void printColor() {
-     int vaiue = -300;
+     int vaiue = 100;
         if (vaiue <=0 ) {
             System.out.println("Красный");
         }
         else if (vaiue > 0 && vaiue <= 100) {
             System.out.println("Желтый");
         }
-        else if (vaiue >=100) {
+        else if (vaiue >100) {
             System.out.println("Зеленый");
         }
     }
