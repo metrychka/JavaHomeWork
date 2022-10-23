@@ -2,7 +2,7 @@ import jdk.nashorn.internal.ir.IfNode;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
-    printThreeWords();
+     printThreeWords();
      checkSumSign();
      printColor();
      compareNumbers();
